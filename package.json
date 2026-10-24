@@ -1,0 +1,23 @@
+{
+  "name": "ccs3-research-codebase",
+  "version": "1.0.0",
+  "description": "Research codebase, documentation, and raw performance data for evaluating Finite State Automata lexical analyzers across five programming languages (Python, Java, C++, JS, PHP).",
+  "main": "Sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2yuri2/CCS3-Research-codebase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2yuri2/CCS3-Research-codebase/issues"
+  },
+  "homepage": "https://github.com/2yuri2/CCS3-Research-codebase#readme",
+  "dependencies": {
+    "acorn": "^8.19.0"
+  }
+}
